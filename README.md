@@ -9,7 +9,7 @@ GPT PDF Chat is an example Python application that allows users to interact with
 - **Natural Language Query:** Allows users to ask questions and get answers based on the contents of the ingested PDF documents.
 - **Gradio Interface:** Provides an easy-to-use web interface for interacting with the application.
 
-<img src="/figures/GPT_PDF_Chat_GUI.png"
+<img src="./figures/GPT_PDF_Chat_GUI.png">
 
 ## Installation
 
